@@ -1,0 +1,46 @@
+=== Lexical Analysis Result ===
+
+Keywords (8):
+  - return
+  - else
+  - if
+  - char
+  - float
+  - int
+  - namespace
+  - using
+
+Literals (7):
+  - "Sum is small"
+  - "Hello, tokens!"
+  - 'x'
+  - 14
+  - 3
+  - 0
+  - 10
+
+Identifiers (12):
+  - cout
+  - msg
+  - string
+  - sum
+  - c
+  - endl
+  - b
+  - a
+  - main
+  - std
+  - iostream
+  - include
+
+Operators/Punctuations (10):
+  - }
+  - =
+  - (
+  - ;
+  - {
+  - )
+  - >
+  - +
+  - .
+  - <

@@ -1,0 +1,20 @@
+#include <vector> // include vector library
+#include <string> /* include string library */
+
+int sum(int a, int b) { // function to sum two numbers
+    return a + b; /* return result */
+}
+
+int main() {
+    // variable declarations
+    int x23BDS1172 = 5;  /* first number */
+    int y = 7;  // second number
+
+    /*
+       Adding two numbers and
+       printing the result
+    */
+    int result = sum(x, y);
+    cout << "Sum is: " << result << endl; // output result
+    return 0;
+}

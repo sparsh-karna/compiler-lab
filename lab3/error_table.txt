@@ -1,0 +1,2 @@
+Identifier	Reason
+a	Identifier already declared

@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a = 10;
+    float b = 3.14;
+    char c = 'x';
+    string msg = "Hello, tokens!";
+    
+    // perform addition
+    float sum = a + b;
+
+    if (sum > 10) {
+        cout << msg << endl;
+    } else {
+        cout << "Sum is small" << endl;
+    }
+
+    return 0;
+}

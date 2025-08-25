@@ -1,0 +1,5 @@
+Index	Identifier	Type	Value
+1	a	int	10
+2	b	float	3.14
+3	name	string	Ram
+4	c	char	x
